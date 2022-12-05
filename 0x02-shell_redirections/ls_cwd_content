@@ -1,0 +1,15 @@
+total 4
+drwxr-xr-x 1 bankai bankai 4096 Dec  5 10:30 .
+drwxr-xr-x 1 bankai bankai 4096 Dec  5 09:55 ..
+-rwxr--r-- 1 bankai bankai   32 Dec  5 10:02 0-hello_world
+-rwxr--r-- 1 bankai bankai   28 Dec  5 10:05 1-confused_smiley
+-rwxr--r-- 1 bankai bankai   28 Dec  5 10:07 2-helloffile
+-rwxr--r-- 1 bankai bankai   39 Dec  5 10:13 3-twofiles
+-rwxr--r-- 1 bankai bankai   35 Dec  5 10:14 4-lastlines
+-rwxr--r-- 1 bankai bankai   35 Dec  5 10:15 5-firstlines
+-rwxr--r-- 1 bankai bankai   40 Dec  5 10:20 6-third_line
+-rwxr--r-- 1 bankai bankai  109 Dec  5 10:23 7-file
+-rwxr--r-- 1 bankai bankai   36 Dec  5 10:26 8-cwd_state
+-rwxr--r-- 1 bankai bankai   37 Dec  5 10:30 9-dupliate_last_line
+-rw-r--r-- 1 bankai bankai   17 Dec  5 10:23 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 bankai bankai    0 Dec  5 10:30 ls_cwd_content
